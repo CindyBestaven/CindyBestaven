@@ -6,7 +6,7 @@
   
 - 🌱 I’m currently learning HTML, CSS, JavaScript, ReactJS, PHP, Python, Vue.js, Figma, Canva and more..
 - 📫 How to reach me cindybestaven44@outlook.fr
-- ⚡Fun fact I love horror films and video games but I'm a real coward who jumps when closing a door... ☠️ 
+- ⚡Fun fact - I love horror films and video games but I'm a real coward who jumps when closing a door... ☠️ 
 
 </br>
 <h3 align='center'>Connect with me:</h3>
