@@ -2,7 +2,7 @@
 
 <h3 align='center'>~Student developer at Ada Tech School, Nantes~</h3></br>
 
-- 📖 I’m currently learning on a 12-month apprenticeship as a software engineer.
+- 📖 I'm currently looking for an apprenticeship contract as a software engineer.
   
 - 🌱 I’m currently learning HTML, CSS, JavaScript, ReactJS, PHP, Python, Vue.js, Figma, Canva and more..
 - 📫 How to reach me cindybestaven44@outlook.fr
